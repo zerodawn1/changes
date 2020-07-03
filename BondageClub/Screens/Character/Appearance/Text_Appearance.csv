@@ -1,0 +1,15 @@
+SelectYourAppearance,Select your appearance
+SelectSomeoneAppearance, Select TargetCharacterName's appearance
+MustPickItem,You must pick an item of type:
+WardrobeNameInfo,Set wardrobe character name:
+WardrobeNameError,Invalid name for character.
+ResetClothes,Reset character
+Random,Randomize character
+Naked,Strip clothes
+StripItem,Strip item
+Next,Next
+Prev,Previous
+Cancel,Cancel changes
+Accept,Accept changes
+Wardrobe,Wardrobe
+DressManually,Dress manually
